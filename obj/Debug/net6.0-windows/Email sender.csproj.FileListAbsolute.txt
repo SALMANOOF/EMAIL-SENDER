@@ -1,0 +1,18 @@
+E:\Email sender\bin\Debug\net6.0-windows\Email sender.exe
+E:\Email sender\bin\Debug\net6.0-windows\Email sender.deps.json
+E:\Email sender\bin\Debug\net6.0-windows\Email sender.runtimeconfig.json
+E:\Email sender\bin\Debug\net6.0-windows\Email sender.dll
+E:\Email sender\bin\Debug\net6.0-windows\Email sender.pdb
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.csproj.AssemblyReference.cache
+E:\Email sender\obj\Debug\net6.0-windows\Email_sender.Form1.resources
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.csproj.GenerateResource.cache
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.GeneratedMSBuildEditorConfig.editorconfig
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.AssemblyInfoInputs.cache
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.AssemblyInfo.cs
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.csproj.CoreCompileInputs.cache
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.dll
+E:\Email sender\obj\Debug\net6.0-windows\refint\Email sender.dll
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.pdb
+E:\Email sender\obj\Debug\net6.0-windows\Email sender.genruntimeconfig.cache
+E:\Email sender\obj\Debug\net6.0-windows\ref\Email sender.dll
+E:\Email sender\obj\Debug\net6.0-windows\Email_sender.Properties.Resources.resources
